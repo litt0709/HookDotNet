@@ -1,0 +1,7 @@
+D:\Works\DotNetHooking-master\HookingAssembly\HookingAssembly\bin\Debug\HookingAssembly.dll
+D:\Works\DotNetHooking-master\HookingAssembly\HookingAssembly\bin\Debug\HookingAssembly.pdb
+D:\Works\DotNetHooking-master\HookingAssembly\HookingAssembly\obj\Debug\HookingAssembly.csproj.CoreCompileInputs.cache
+D:\Works\DotNetHooking-master\HookingAssembly\HookingAssembly\obj\Debug\HookingAssembly.dll
+D:\Works\DotNetHooking-master\HookingAssembly\HookingAssembly\obj\Debug\HookingAssembly.pdb
+D:\Works\DotNetHooking-master\HookingAssembly\HookingAssembly\bin\Debug\Newtonsoft.Json.dll
+D:\Works\DotNetHooking-master\HookingAssembly\HookingAssembly\obj\Debug\HookingAssembly.csproj.CopyComplete

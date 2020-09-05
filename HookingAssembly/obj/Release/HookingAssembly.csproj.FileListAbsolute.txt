@@ -1,0 +1,8 @@
+D:\Works\DotNetHooking-master\HookingAssembly\HookingAssembly\bin\Release\HookingAssembly.dll
+D:\Works\DotNetHooking-master\HookingAssembly\HookingAssembly\bin\Release\HookingAssembly.pdb
+D:\Works\DotNetHooking-master\HookingAssembly\HookingAssembly\obj\Release\HookingAssembly.csproj.CoreCompileInputs.cache
+D:\Works\DotNetHooking-master\HookingAssembly\HookingAssembly\obj\Release\HookingAssembly.dll
+D:\Works\DotNetHooking-master\HookingAssembly\HookingAssembly\obj\Release\HookingAssembly.pdb
+D:\Works\DotNetHooking-master\HookingAssembly\HookingAssembly\bin\Release\Newtonsoft.Json.dll
+D:\Works\DotNetHooking-master\HookingAssembly\HookingAssembly\obj\Release\HookingAssembly.csproj.CopyComplete
+D:\Works\DotNetHooking-master\HookingAssembly\HookingAssembly\obj\Release\HookingAssembly.csprojAssemblyReference.cache
